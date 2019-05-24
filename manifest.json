@@ -2,11 +2,11 @@
     "name": "PWA sample for mobile kit",
     "short_name": "MKit",
     "icons": [{
-          "src": "https://test.mousetronick.com/minimumPwa/logo192.png",
+          "src": "https://mathter7.github.io/PWATest/logo192.png",
           "sizes": "192x192",
           "type": "image/png"
         }],
-    "start_url": "https://test.mousetronick.com/minimumPwa/index.html",
+    "start_url": "https://mathter7.github.io/PWATest/index.html",
     "display": "standalone",
     "background_color": "#3E4EB8",
     "theme_color": "#2F3BA2"
