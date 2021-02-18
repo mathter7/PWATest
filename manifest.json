@@ -1,13 +1,15 @@
 {
-    "name": "PWA sample for mobile kit",
-    "short_name": "MKit",
-    "icons": [{
-          "src": "https://mathter7.github.io/PWATest/logo192.png",
-          "sizes": "192x192",
-          "type": "image/png"
-        }],
-    "start_url": "https://mathter7.github.io/PWATest/index.html",
-    "display": "standalone",
-    "background_color": "#3E4EB8",
-    "theme_color": "#2F3BA2"
-  }
+  "name": "BlazorApp2",
+  "short_name": "BlazorApp2",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
